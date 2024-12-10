@@ -91,7 +91,7 @@ Pedidos de Venda: 1
    - Após a entrada `"FIM"`, o programa ordena os produtos alfabeticamente e exibe as informações de estoque, pedidos de compra e pedidos de venda.
 
 ---
-###Como Executar
+### Como Executar
 1. Salve o código em um arquivo chamado, por exemplo, controle_estoque.py.
 2. Execute o programa em um terminal ou console Python.
 3. Insira os dados no formato especificado até a entrada "FIM".
