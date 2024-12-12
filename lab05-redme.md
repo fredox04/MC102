@@ -75,7 +75,9 @@ Este programa calcula o total de horas trabalhadas e horas extras de um funcion√
 
 **Exemplo de Sa√≠da**:
 ```
-Horas trabalhadas: 50 Horas extras: 6 Valor devido: R$ 1060.00
+Horas trabalhadas: 50
+Horas extras: 6
+Valor devido: R$ 1060.00
 ```
 ---
 
